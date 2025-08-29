@@ -125,14 +125,14 @@ class _LandingPageState extends State<LandingPage> {
                                         SizedBox(
                                             width: media.width * 0.4,
                                             child: Text(
-                                              'Iniciar sesion como conductor',
+                                              'Iniciar sesion como conductora',
                                               maxLines: 2,
                                               textAlign: TextAlign.center,
                                               style: GoogleFonts.montserrat(
                                                   color: newRedColor,
                                                   fontWeight: FontWeight.w800,
                                                   fontSize:
-                                                      media.width * 0.043),
+                                                      media.width * 0.040),
                                             )),
                                       ],
                                     )),

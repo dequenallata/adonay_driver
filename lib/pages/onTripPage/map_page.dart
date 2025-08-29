@@ -3262,7 +3262,7 @@ void didChangeAppLifecycleState(AppLifecycleState state) async {
                                                                         child: Image.asset(
                                                                           themeProvider.isDarkTheme
                                                                               ? 'assets/gifs/icon-driver2.gif'
-                                                                              : 'assets/gifs/icon-driver1.png',
+                                                                              : 'assets/gifs/icon-driver11.png',
                                                                         ),
                                                                       ),
                                                                     ],

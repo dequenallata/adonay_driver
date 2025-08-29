@@ -118,11 +118,11 @@ class _ChatPageState extends State<ChatPage> {
                       end: Alignment.bottomCenter,
                       colors: [
                       // theme,
-                      const Color.fromARGB(255, 195, 13, 0),
+                      const Color.fromARGB(204, 252, 72, 213),
                       theme,
                       // theme.withOpacity(0.5)/s/s``
                     ],),
-                    image: const DecorationImage(image: AssetImage('assets/images/icon_new.png'), opacity: 0.3)
+                    image: const DecorationImage(image: AssetImage('assets/images/logo_adonay.png'), opacity: 0.3)
                   ),
                   child: Column(
                     children: [

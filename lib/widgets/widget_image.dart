@@ -24,7 +24,7 @@ class _MarkerImageState extends State<MarkerImage> {
   Future<void> _loadImage() async {
     String path = widget.isDarkTheme
         ? 'assets/gifs/icon-driver2.gif'
-        : 'assets/gifs/icon-driver1.png';
+        : 'assets/gifs/icon-driver11.png';
 
     final ByteData data = await rootBundle.load(path);
     setState(() {
